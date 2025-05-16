@@ -5,3 +5,5 @@ document.getElementById("procesar").addEventListener("click", () => {
     const output = resolverTorneo(input);
     document.getElementById("output").textContent = output;
 });
+
+//Este es el archivo app
